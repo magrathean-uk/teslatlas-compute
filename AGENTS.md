@@ -1,5 +1,10 @@
 # Teslatlas Compute
 
+> **Frozen on 2026-10-08.** This checkout was imported with its full history into the
+> Hub repository as `hub/compute/`, which is now the authoritative copy. Do not edit
+> here; it stays only until the App re-pins Compute and the old GitHub repositories
+> are archived on the owner's push request.
+
 Shared Rust map kernel (raster kernel, raw-position cleaning), compiled into both the
 App and the Hub. Follow `../AGENTS.md` and `../docs/development/MASTER_PLAN.md`; the plan
 wins on process, model, scope and commit policy. Run commands through
